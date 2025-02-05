@@ -2,7 +2,7 @@
 
 body {
     background: linear-gradient(245.59deg,#4d9559 0%,#38703d 28.53%,#133917 75.52%);
-   
+   font-family: 'Poppins', sans-serif;
     height:300vh;
     background-repeat:no-repeat;
     width:100%;
