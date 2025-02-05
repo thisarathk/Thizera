@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
+
+body {
+    background: linear-gradient(245.59deg,#4d9559 0%,#38703d 28.53%,#133917 75.52%);
+   
+    height:300vh;
+    background-repeat:no-repeat;
+    width:100%;
+    background-size:cover;
+    background-position:center;
+}
+
+
+
+*{margin:0;
+ padding:0;}
+
+
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #32b532;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+    font-size: 19px;
+   
+  }
+  
+  .topnav a:hover {
+    background-color: #000000;
+    color: black;
+    
+  }
+  .topnav a.active {
+    background-color: rgb(35, 156, 35);
+    color: rgb(33, 33, 33);
+    
+  }
+
+
+  .box14{  
+    position: absolute;
+    top: 1250px; 
+    right: 100px;
+    left: 100px;
+    color: #71c929;
+            
+                   }
+
+
+   .box13{  
+     position: absolute;
+     top: 200px; 
+     right: 100px;
+     left: 100px;
+     color: #71c929;
+                            
+                                   }
+
+
+
+
+
+
+
+
+
+
+                 .button {
+                    padding: 10px 20px;
+                    border: none;
+                    font-size: 17px;
+                    color: #020000;
+                    border-radius: 7px;
+                    letter-spacing: 4px;
+                    font-weight: 700;
+                    text-transform: uppercase;
+                    transition: 0.5s;
+                    transition-property: box-shadow;
+                  }
+                  
+                  .button {
+                    background: #0eb832;
+                    box-shadow: 0 0 25px rgb(45, 248, 55);
+                  }
+                  
+                  .button:hover {
+                    box-shadow: 0 0 5px rgb(72, 168, 28),
+                                0 0 25px rgb(72, 168, 28),
+                                0 0 50px rgb(072, 168, 28),
+                                0 0 100px rgb(72, 168, 28);
+                  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .box1{
+
+    position: absolute;
+    top: 300px;
+    left: 24%;
+    right: auto;
+    
+ }
+
+
+  .box2{
+    position: absolute;
+    top: 790px;
+    left: 24%;
+    right: auto;
+  }
+
+
+  .box3{
+    position: absolute;
+    top: 1390px;
+    left: 24%;
+    right: auto;
+      }
+
+
+  .box4{
+   position: absolute;
+   top: 1840px;
+   left: 24%;
+   right:auto;
+          }
+
+
+ .box5{
+    position:absolute;
+    top: 2290px;
+    left: 24%;
+    right: auto;
+ }
+
+ .box6{
+    position:absolute;
+    top: 2740px;
+    left: 24%;
+    right: auto;
+ }
+
+
+ 
+         
